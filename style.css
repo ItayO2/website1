@@ -1,0 +1,26 @@
+img{
+	width:350px;
+	border:2px solid blue;
+
+}
+
+body {
+		background-color: #00FFFF;
+		font-family: arial;
+	
+}
+
+.red{
+	color: red;
+}
+
+
+.big_font{
+	font-size: 24px;
+}
+
+
+#SpecialStyle{
+	border: 2px solid red;
+	background-color:yellow;
+}
